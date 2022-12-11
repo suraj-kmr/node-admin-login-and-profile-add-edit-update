@@ -11,7 +11,7 @@
   "dependencies": {
     "connect-flash": "^0.1.1",
     "ejs": "^2.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-sesssion": "^1.15.5",
     "md5": "^2.2.1",
     "multer": "^1.4.2",
